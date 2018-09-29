@@ -20,7 +20,7 @@ import com.example.chen.news.view.fragment.impl.BaseFragment;
  * 所持有的的Model对象都应该继承BaseFragmentModel
  * 所持有的Model都应该实现IBaseFragmentModel的子接口,以便于Presenter通过接口调用Model的方法
  *
- * Created by liao on 2017/4/21.
+ * Created by chen on 2018/9/15.
  */
 
 public abstract class BaseFragmentPresenter<V extends BaseFragment & IBaseFragment,

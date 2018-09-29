@@ -19,7 +19,7 @@ import com.example.chen.news.view.fragment.i.IBaseFragment;
 
 /**
  * fragment需要继承的基类,调用onCreateView时必须先调用super
- * Created by liao on 2017/4/21.
+ * Created by chen on 2018/9/16.
  */
 
 public abstract class BaseFragment<P extends BaseFragmentPresenter> extends Fragment implements IBaseFragment {

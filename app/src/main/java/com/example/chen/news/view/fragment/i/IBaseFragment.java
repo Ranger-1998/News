@@ -3,7 +3,7 @@ package com.example.chen.news.view.fragment.i;
 /**
  * Fragment需要实现的接口的父接口
  * Presenter通过Fragment实现的接口来回调
- * Created by liao on 2017/4/21.
+ * Created by chen on 2018/9/16.
  */
 
 public interface IBaseFragment {

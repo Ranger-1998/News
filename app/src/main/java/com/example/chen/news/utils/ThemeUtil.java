@@ -14,8 +14,6 @@ import android.widget.ImageView;
 import static android.content.Context.MODE_PRIVATE;
 
 /**
- * 处理主题
- *
  * Created by chen on 2018/9/15.
  */
 public class ThemeUtil {
