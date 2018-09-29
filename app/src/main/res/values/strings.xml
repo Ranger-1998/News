@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news_toolbar">新闻头条</string>
+</resources>
